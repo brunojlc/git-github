@@ -6,3 +6,4 @@ Anotacoes realizadas no processo de aprendizado de Git e Github
 - git init
 - git add
 - git status
+- **git commit -m** "msg"
